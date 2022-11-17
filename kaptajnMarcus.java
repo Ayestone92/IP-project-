@@ -3,6 +3,6 @@ public class kaptajnMarcus {
     private String liberal4life;
     private String haderkatte;
     private String laktosesucks;
-    private String trenchcoatAllYearLong;
+    
     
 }
