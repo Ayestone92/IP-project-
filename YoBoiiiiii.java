@@ -12,4 +12,8 @@ public class YoBoiiiiii {
     public void ps(){
         System.out.println("ps det var nikoline");
     }
+
+    public int pengejegkræver(){
+        return 1000000;
+    }
 }
