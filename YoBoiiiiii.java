@@ -1,5 +1,6 @@
 public class YoBoiiiiii {
     private String lålålålålålålålål;
+    private int age;
 
     public void simonSucks(){
         System.out.println("Simon sucks");
@@ -8,7 +9,7 @@ public class YoBoiiiiii {
     public void hjemOgStene(){
         System.out.println("nu skal jeg hjem på sofaen hilsen Simon");
     }
-
+    //
     public void ps(){
         System.out.println("ps det var nikoline");
     }
