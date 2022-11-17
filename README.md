@@ -20,3 +20,16 @@ work on different files in IP project
         then you only loose as little as possible after changes
         makes it easier
 
+git branch
+- gives you all the branches
+
+git branch "name"
+- create new branch
+
+git checkout "nameofbranch"
+
+git branch -d "nameofbranch"
+- deletes branch
+
+When making branches and changes and people are working on the same document
+- you can experience merge conflicts. 
