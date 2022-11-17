@@ -4,4 +4,8 @@ public class YoBoiiiiii {
     public void simonSucks(){
         System.out.println("Simon sucks");
     }
+
+    public void hjemOgStene(){
+        System.out.println("nu skal jeg hjem på sofaen hilsen Simon");
+    }
 }
