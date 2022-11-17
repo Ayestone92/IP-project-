@@ -8,4 +8,8 @@ public class YoBoiiiiii {
     public void hjemOgStene(){
         System.out.println("nu skal jeg hjem på sofaen hilsen Simon");
     }
+
+    public void ps(){
+        System.out.println("ps det var nikoline");
+    }
 }
